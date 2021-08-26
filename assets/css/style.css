@@ -132,7 +132,7 @@ section{
   transition: all 0.5s;
   padding: 15px;
   overflow-y: auto;
-  background-color: #0563bb;
+  background-color: #ffff;
 }
 
 @media (max-width: 992px) {
@@ -208,7 +208,7 @@ section{
 
 .nav-menu a:hover, .nav-menu .active, .nav-menu .active:focus, .nav-menu li:hover > a {
   color: #fff;
-  background: grey;
+  background: rgb(5, 99, 187);
 }
 
 .nav-menu a:hover span, .nav-menu .active span, .nav-menu .active:focus span, .nav-menu li:hover > a span {
